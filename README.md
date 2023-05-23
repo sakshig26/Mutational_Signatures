@@ -1,6 +1,11 @@
 # Mutational_Signatures
 
 **Work Done so Far**
+  Literature Review:
+  Two major papers acting as base papers to this work is being studied and cloned.
+  https://github.com/AlexandrovLab/SigProfilerExtractor
+  https://github.com/getzlab/SignatureAnalyzer
+
 
 **In this proposed work, idea is to to do tasks:**
 **1. Studying the effect of local neighbors on K-Mers generation.**
@@ -20,6 +25,20 @@ Data-set granularity: Group by Patient id->group by Chromosome ->check type of m
 3. Code for Insertion and deletion is in progress. Once, mutations are being identified, K-Mers generation will take place.
 
 **** Statistics of data-set****
+MSK Data has been downloaded from cbioportal and focus is primarily on 'Breast Cancer'
+
+No. of unique patients:9594
+No of variant types:
+SNP    65970
+DEL     8201
+INS     2910
+DNP     1039
+TNP       81
+ONP       62
+
+
+
+
 
 
  
