@@ -4,7 +4,10 @@ Work Done so Far
 
 In this proposed work, idea is to to do tasks:
 1. Studying the effect of local neighbors on K-Mers generation.
-2.Generating Sequence data
+Finding effect of neighbors on mutation motifs.
+Finding effect of long sequences of mutation motifs.
 
-1. Finding effect of neighbors on mutation motifs.
-2. Finding effect of long sequences of mutation motifs.
+3.Generating Sequence data
+
+
+
